@@ -1,0 +1,13 @@
+{
+  "pages": {
+    "https://buscador.ricardobrasil.com.br/dashboard": "index.html",
+    "https://buscador.ricardobrasil.com.br/": "pages/page.html",
+    "https://buscador.ricardobrasil.com.br/back-tests/b3-daily": "pages/back-tests_b3-daily.html",
+    "https://buscador.ricardobrasil.com.br/back-tests/b3-intraday": "pages/back-tests_b3-intraday.html",
+    "https://buscador.ricardobrasil.com.br/back-tests/bmf-intraday": "pages/back-tests_bmf-intraday.html"
+  },
+  "total_pages": 5,
+  "total_assets": 38,
+  "errors": 0,
+  "time_seconds": 17.4
+}
